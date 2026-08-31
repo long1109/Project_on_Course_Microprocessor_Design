@@ -1,0 +1,9 @@
+F:/Verilog/Vending_Machine/Vending_machine.v {1 {vlog -work work -vopt -stats=none F:/Verilog/Vending_Machine/Vending_machine.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module vending_machine_18105070
+-- Compiling module vending_machine_tb
+
+Top level modules:
+	vending_machine_tb
+
+} {} {}}
